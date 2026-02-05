@@ -21,7 +21,6 @@ solving problems with DSA, and experimenting with modern AI technologies.
 ---
 
 ### 🌱 Currently Learning
-- **AI/ML & Generative AI**
 - **Advanced DSA (Problem Solving)**
 - **TypeScript & Next.js**
 - **Docker, Open Source & Cloud Basics**
